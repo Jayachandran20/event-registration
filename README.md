@@ -26,12 +26,14 @@ Validate the HTML and CSS code.
 ## Step 7:
 
 Publish the website in the given URL.
-## DESIGN:
+## DESIGN TOOL:
 
-## PROGRAM :
+Figma
 
 ## OUTPUT:
+![Screenshot from 2023-01-28 21-44-25](https://user-images.githubusercontent.com/118447015/215277164-5d317919-4504-4e01-bd05-ba1e18904459.png)
+
 
 
 ## Result:
-
+The program to design, develop and deploy a web application for event registration is completed successfully.
